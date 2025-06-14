@@ -1,2 +1,6 @@
 # SuperStore-Sales-Analysis-and-Forecasting
-This project focuses on delivering a comprehensive data-driven solution for a supermarket's sales strategy using Power BI. It involves four key components: dashboard creation, where KPIs are identified and interactive, visually engaging dashboards are designed; data analysis, providing actionable insights into sales performance through charts and visualizations; sales forecasting, which applies time series analysis to predict sales for the upcoming 15 days; and finally, actionable insights and recommendations, where strategic suggestions are derived to enhance operational efficiency, customer satisfaction, and overall growth. The project aims to empower business decisions through meaningful data interpretation and visualization.
+This project aims to optimize a supermarket’s sales strategy through data
+visualization and analysis using Power BI. It involves data cleaning, transforming raw data using Power Query, and building an
+interactive dashboard with key KPIs. DAX formulas were used for creating dynamic measures and calculations. The project
+includes analyzing sales trends, applying time series forecasting for the next 15 days, and delivering actionable insights. The goal is
+to support data-driven decisions that enhance growth, operational efficiency, and customer satisfaction.
